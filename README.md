@@ -14,8 +14,8 @@ I am an experienced C# developer who is passionate about creating high-quality a
 - MS SQL, PostgreSQL, MongoDB databases
 - ORM Entity Framework, ADO.NET
 - Frameworks and libraries ASP.NET Core, WPF, WCF, LINQ, RabbitMQ, Redis
-- MVVM, MVC, Clean Architecture, CQRS design patterns
-- Visual Studio, Git, Docker development tools
+- Design patterns MVVM, MVC, Clean Architecture, CQRS 
+- Development toolsVisual Studio, Git, Docker 
 - Testing and debugging the code
 
 ## My projects 🚀
