@@ -18,7 +18,7 @@ I am an experienced C# developer who is passionate about creating high-quality a
 - ORM Entity Framework, ADO.NET
 - Frameworks and libraries ASP.NET Core, WPF, WCF, LINQ, RabbitMQ, Redis
 - Design patterns MVVM, MVC, Clean Architecture, CQRS 
-- Development toolsVisual Studio, Git, Docker 
+- Development tools Visual Studio, Git, Docker 
 - Testing and debugging the code
 
 ## My projects 🚀
