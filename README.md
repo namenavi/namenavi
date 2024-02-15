@@ -1,6 +1,9 @@
 # Hi, I'm Ivan Dorofeev  👋 
 
 I am an experienced C# developer who is passionate about creating high-quality and modern applications using .NET Framework, ASP.NET Core, WPF, WCF, REST API and other technologies.<br>
+
+>Fear breeds insecurity, and self-doubt leads to your worst fears becoming reality. - Joseph Murphy
+
 💪 I study software architecture and solutions, as well as all the subtleties of the C # programming language and platform .NET<br>
 🤝 I want to collaborate on open source projects<br>
 💭 Ask me about everything related to technology, I will be happy to share my thoughts<br>
