@@ -12,7 +12,7 @@ I am an experienced C# developer who is passionate about creating high-quality a
 
 ## My key skills 💻
 
-- The C programming language#
+- The C# programming language
 - The platform .NET Framework and .NET Core
 - MS SQL, PostgreSQL, MongoDB databases
 - ORM Entity Framework, ADO.NET
